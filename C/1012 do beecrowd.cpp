@@ -1,4 +1,3 @@
-1012 do beecrowd 
 
 #include <stdio.h>
 
@@ -22,3 +21,4 @@ int main() {
 
     return 0;
 }
+
