@@ -1,4 +1,3 @@
-1013 do beecrowd 
 
 #include <stdio.h>
  
@@ -13,4 +12,5 @@ int main() {
     printf("%d eh o maior\n", maior);
 
     return 0;
+
 }
