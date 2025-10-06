@@ -1,4 +1,4 @@
-1029 do beecrowd
+
 
 #include <stdio.h>
 
@@ -27,4 +27,5 @@ int T, X, i;
     }
 
     return 0;
+
 }
