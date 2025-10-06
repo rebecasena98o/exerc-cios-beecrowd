@@ -1,4 +1,4 @@
-1015 do beecrowd
+
 
 #include <stdio.h>
  
@@ -15,5 +15,6 @@ double x1, y1, x2, y2, distancia;
     printf("%.4lf\n", distancia);
 
     return 0;
+
 
 }
