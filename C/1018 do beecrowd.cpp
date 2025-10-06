@@ -1,4 +1,3 @@
-1018 do beecrowd
 
 #include <stdio.h>
  
@@ -33,4 +32,5 @@ int N, valor;
     printf("%d nota(s) de R$ 1,00\n", N / 1);
 
     return 0;
+
 }
