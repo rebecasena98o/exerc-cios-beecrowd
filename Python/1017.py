@@ -1,0 +1,7 @@
+TEMPOGASTO = int(input())
+VELOCIDADE = int(input())
+
+DISTANCIA  = (TEMPOGASTO * VELOCIDADE)
+
+LITROS = DISTANCIA / 12.0
+print(f"{LITROS:.3f}")
